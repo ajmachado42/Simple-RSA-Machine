@@ -6,3 +6,5 @@ Three files that can be run through a command line, order doesn't matter:
 - en_de.py: will interact with the user to encrypt and decrypt a message
 
 - A video is included, that I made, for some extra flare :)
+
+- A pdf of the original project prompt from the Python bootcamp with Correlation One is included, also.
